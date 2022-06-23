@@ -1,0 +1,11 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem 10%;
+}
+
+.ecommerceH1{
+    color: rgba(168,17,17,1);
+    font-size: 1.5rem;
+    font-weight: 700;
+}

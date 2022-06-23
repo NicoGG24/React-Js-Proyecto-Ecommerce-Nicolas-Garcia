@@ -1,11 +1,15 @@
 import React from 'react';
 import './App.css';
-import NavBar from './Components/NavBar'
+import Header from './Components/Header'
+import ItemListContainer from './Components/ItemListContainer'
+
 
 function App() {
   return (
-    <NavBar />
-
+    <>
+      <Header />
+      <ItemListContainer greeting="Category" />
+    </>
   );
 }
 

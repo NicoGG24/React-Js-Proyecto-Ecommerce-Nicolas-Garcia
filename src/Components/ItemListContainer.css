@@ -1,0 +1,9 @@
+.item--list--container{
+    display: flex;
+    padding: 3rem 10%;
+}
+
+.item--list--container__title{
+    color: rgb(80, 80, 80);
+    
+}

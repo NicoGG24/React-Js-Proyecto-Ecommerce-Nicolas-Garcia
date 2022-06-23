@@ -1,28 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@500;600;700&display=swap');
+
 *{
     text-decoration: none;
     box-sizing: border-box;
-    font-family: 'Prompt', sans-serif;
+
     list-style: none;
-}
-
-header{
-    display: flex;
-    justify-content: space-between;
-    padding: 2rem 7rem;
-}
-
-.ecommerceH1{
-    color: rgba(168,17,17,1);
-    font-size: 1.5rem;
-    font-weight: 700;
 }
 
 nav{
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    width: 70%;
+    width: 60%;
+    padding-left: 10%;
 }
 
 nav a{
@@ -33,12 +21,7 @@ nav a{
 li{
     display: flex;
     gap: 50px;
-    margin-right: 20%;
-}
 
-.carrito{
-    display: flex;
-    align-items: center;
 }
 
 
