@@ -15,3 +15,9 @@ function App() {
 }
 
 export default App;
+
+
+
+// UN COMPONENTE SE ACTUALIZARA CUANDO UNA DE ESTAS 3 CONDICIONES SEA VERDADERA:  1-SE ACTUALIZA EL COMPONENTE PADRE
+//                                                                                2-SE EJECUTA UN STATE  
+//                                                                                2-CAMBIA UNA PROP  
